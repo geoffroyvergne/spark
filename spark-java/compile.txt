@@ -1,0 +1,8 @@
+mvn package
+
+/Users/gv/dev/spark/spark-bin/bin/spark-submit \
+  --class "com.spark.simple.SimpleApp" \
+  --master local[4] \
+  target/spark-java.jar
+
+  

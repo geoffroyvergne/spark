@@ -1,0 +1,7 @@
+*.iml
+.idea/
+target/
+.DS_Store
+src/main/scala/com/spark/streaming/TwitterAuth.scala
+src/main/resources/titanic/model/
+src/main/resources/titanic/result/
